@@ -1,4 +1,4 @@
-# Merchant-Revival Prdofil (Öffentlich)
+# Merchant-Revival Profil (Öffentlich)
 
 ## /.github ist ein spezielles Repository.
 
