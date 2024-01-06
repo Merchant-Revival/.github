@@ -1,7 +1,5 @@
 # 🚀 Merchant Revival
 
-![Merchant Revival Logo]([https://github.com/Merchant-Revival/Merchant-Revival/blob/c7067eeb775628802fe12f4099e789ba4ce63212/Images/logo/MRLogo_V1_1280x720.webp](https://merchriva.de/wp-content/uploads/2023/12/MRLogo_V3_1280x720_German.png)
-
 ![Merchant Revival Logo](https://merchriva.de/wp-content/uploads/2023/12/MRLogo_V3_1280x720_German.png)
 
 ## Über uns
